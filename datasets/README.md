@@ -37,4 +37,4 @@ https://github.com/pratik1986/Movie_Script_with_Age_Rating_by_Pratik_Kalamkar-EN
 
 ## Citation
 
-If you use any of these datasets in your research, please cite the corresponding dataset repository and any associated publication. Proper citation helps acknowledge the effort involved in collecting, verifying, and organizing these datasets, and supports the continued sharing of open research resources.
+If you use any of these datasets in your research, please cite the corresponding dataset repository and associated publication. Proper citation helps acknowledge the effort involved in collecting, verifying, and organizing these datasets, and supports the continued sharing of open research resources.
