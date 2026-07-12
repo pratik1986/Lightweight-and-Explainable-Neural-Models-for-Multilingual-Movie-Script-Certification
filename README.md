@@ -52,9 +52,15 @@ Main contributions include:
 # Repository Structure
 
 ```text
-notebooks/
 datasets/
+models/
+notebooks/
 paper/
+CITATION.bib
+CITATION.cff
+LICENSE
+README.md
+
 ```
 
 ---
